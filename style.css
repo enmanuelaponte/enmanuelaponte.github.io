@@ -27,3 +27,6 @@
     width:100%;
     
 }
+.headshot{
+    transform: rotate(90deg);
+}
